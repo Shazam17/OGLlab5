@@ -1,0 +1,11 @@
+﻿  lab5cg.cpp
+c:\users\johnpower\source\repos\lab5cg\lab5cg\lab5cg.cpp(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\johnpower\source\repos\lab5cg\lab5cg\lab5cg.cpp(51): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\johnpower\source\repos\lab5cg\lab5cg\lab5cg.cpp(188): warning C4129: ' ': unrecognized character escape sequence
+c:\users\johnpower\source\repos\lab5cg\lab5cg\lab5cg.cpp(189): warning C4129: ' ': unrecognized character escape sequence
+c:\users\johnpower\source\repos\lab5cg\lab5cg\lab5cg.cpp(216): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\johnpower\source\repos\lab5cg\lab5cg\lab5cg.cpp(225): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\lab5cg\lab5cg\lab5cg.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\lab5cg\lab5cg\lab5cg.cpp(233): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\johnpower\source\repos\lab5cg\lab5cg\lab5cg.cpp(249): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  lab5cg.vcxproj -> C:\Users\JohnPower\source\repos\lab5cg\x64\Debug\lab5cg.exe
